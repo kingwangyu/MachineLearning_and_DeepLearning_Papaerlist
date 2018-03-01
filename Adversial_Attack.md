@@ -1,5 +1,5 @@
 
-# [Adversarial Examples]
+# Adversarial Examples
 
 A paper list of adversarial examples, not only limited to papers but also contains other resources.
 
